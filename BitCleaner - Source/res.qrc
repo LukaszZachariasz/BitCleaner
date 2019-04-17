@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BitCleanerIco.png</file>
+    </qresource>
+</RCC>
